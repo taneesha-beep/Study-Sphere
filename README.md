@@ -1,2 +1,2 @@
 # Study_Sphere
-Our RDBMS project 
+This is out college RDBMS project.
